@@ -11,5 +11,6 @@ Team Members: Erin Sherman
               Hnok Mekonnen
 
 Project: Marketing Website
+              www.summitstructuralaz.com
 
 Technology to be used: Java, HTML
