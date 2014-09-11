@@ -1,0 +1,72 @@
+Hi everyone,
+
+It was wonderful to meet you both today! We are excited to start building your site! Here are the notes a I took from today’s first meeting. (Steve, lets PUSH this document to the GIT Hub :) ).  Please let me know if anything looks incorrect or needs to be changed. Rebecca, we have a list of items we’re looking for from you! The logo and approval for $1 a month is the most important at this point, once you go ahead with those two items we can get a site up and ready to preview tomorrow! 
+
+Thank you all so much for your time, and thank you so much for lunch it was great! 
+
+Erin Sherman 
+
+Summit AZ Solutions 
+
+Pages: In red you will see the titles of the pages discussed and below them a brief description of what’s going on the page! 
+
+Home 
+- 24/7 
+- Rotating Banners with helpful text on the images (linking to internal pages) 
+About 
+- Personal background 
+Services
+Residential  
+Commercial 
+Contact 
+- Web form 
+o First last 
+o Address
+o Email 
+o Phone number
+o Questions or Concerns – 
+Portfolio (static) 
+- Current and new projects
+Credentials 
+- Testimonials 
+- Angies List 
+- Why Choose us ?  
+- Certifications
+
+Marking Ideas: 
+
+Search Engine Optimization Key Wording: 
+- Key words 
+o Field Engineering
+o Contractor combined
+o Forensic Engineering  
+o Inspection
+o Emergency 24/7
+Social Networking Expansion 
+- Facebook – 
+- LinkedIn –
+- Angies List -  
+
+Email Distribution list –  GMAIL 
+- Housing inspectors – audience for business 
+- Relators list, Inspectors? 
+
+What we need from Rebecca 
+- Wordpress is free to install
+o 1$ a month pays for Go Daddy to keep your word press site updated, backs up your website nightly, Extra security – firewall and malware scanning, Free themes .. most importantly support 24/7 from godaddy  (cheaper than hiring someone to do wordpress updates) 
+o Need your approval on this update before I install wordpress 
+o Other option is to hire a support person to keep the software updated 
+- Go through images to let us know which ones / where they go
+- Send Logo ASAP 
+- Content “Blurb” for home page sections  
+o These are the categories I took from this site (http://www.summitengineeringinc.com/) 
+o If you want to add/remove any categories for the home page please let us know! 
+o Restorations
+o Forensic Investigations
+o Design Of Special Structures 
+o Structural Building Design
+o Construction Services 
+- Personal “About page” Background Content 
+- Good news: Google Analytics standard account is free ! (This is another marketing tool)  Unless your site is over 250,000 clicks a day you won’t need to pay for this service. 
+
+
