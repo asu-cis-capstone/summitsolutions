@@ -1,4 +1,4 @@
-summitsolutions
+SummitStructuralAZ
 ===============
 
 Marketing website - Capstone project
@@ -13,4 +13,4 @@ Team Members: Erin Sherman
 Project: Marketing Website
               www.summitstructuralaz.com
 
-Technology to be used: Java, HTML
+Technology to be used: Java, HTML, WordPress
