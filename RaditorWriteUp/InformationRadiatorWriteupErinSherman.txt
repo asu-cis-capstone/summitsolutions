@@ -1,0 +1,10 @@
+Erin Sherman
+440 CIS 
+Information Radiator Write-Up
+Proposal: 
+Behind the pictures, information and fun features of any good website are SEO or Search engine optimization techniques. As important as it is for your customers to come to your site and look at your information, it is just as important to track the information about your users as to better serve them. 
+Marketing research has been growing tremendously! We’d like to propose adding Google Analytics service to your website in order to track detailed information about the people who are coming to your site.  Google Analytics allows you to determine how good of a job your advertisements are doing, business getting the word out even how well your website is attracting people. We can see how long people stay on your site from which pages or links they click on. This is a powerful analytics tool as well as marketing tool. With this feature added to your site people who use google to search will be able to find your page quicker with the use of search engine optimization. 
+This would be added by signing up for the service and registering your domain name to Google Analytics. There is a very helpful dashboard you can use by logging into Google Analytics that allows you to view many different types of information about site traffic. Luckily for us there is a widget easy to add onto our word press site already.  
+
+
+
