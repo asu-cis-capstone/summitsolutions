@@ -18,7 +18,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.09.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.23.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Last Meeting ????<br/>
-&nbsp;&nbsp;&nbsp; **-Meetings with Team**<br/>
+&nbsp;&nbsp;&nbsp; **-Meettings with Team**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.14.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.21.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 10.06.14<br/>
@@ -69,10 +69,10 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 **Client:** Summit Structural AZ
 
 **Team Members:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Erin Sherman<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Steve Padilla <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roberto Llano<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Henok Mekonnen<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Erin Sherman<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Steve Padilla <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roberto Llano<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Henok Mekonnen<br/>
 
 **Project:** Marketing Website
               www.summitstructuralaz.com
