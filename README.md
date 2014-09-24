@@ -1,15 +1,15 @@
-####**SummitStructuralAZ**
+#**SummitStructuralAZ**
 ===============
 
 Repository for SummitSturcturalAZ Project
 
-###**SummitStrucuralAZ Marketing Website**
+##**SummitStrucuralAZ Marketing Website**
 
-#**Introduction:**
+####**Introduction:**
 Summit Structural is a company that offers Structural Forensic Investigations on buildings for people.  
 Project - Creating a Website that will be used as a Contact, Marketing, Advertising tool for future clients.
 
-#**TO-DO:**
+####**TO-DO:**
 *Meetings
  -Meetings with Client
 	*Week of 09.07.14
@@ -52,20 +52,20 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 		* Why Choose us ?  
 		*Certifications
 *Social Networking Options	
-	- Facebook 
-	- LinkedIn
-	- Angies List
+  *Facebook 
+  *LinkedIn
+  *Angies List
 
 
-#**TO-DO COMPLETES:**
+####**TO-DO COMPLETES:**
 *Website
-	-Basic structure
-	-About Page
+  -Basic structure
+  -About Page
 	![Website Pictures](Structural-Engineering.jpg)
 
 
 
-#**Team/Client Information:**
+####**Team/Client Information:**
 
 Client: Summit Structural AZ
 
