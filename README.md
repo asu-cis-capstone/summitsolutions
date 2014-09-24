@@ -1,6 +1,5 @@
 #**SummitStructuralAZ**
 ===============
-
 Repository for SummitSturcturalAZ Project
 
 ##**SummitStrucuralAZ Marketing Website**
@@ -11,7 +10,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 
 ####**TO-DO:**
 *Meetings
- -Meetings with Client
+ -Meetings with Client<br/>
 	*Week of 09.07.14
 	*Week of 09.28.14
 	*Week of 10.12.14
