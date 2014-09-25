@@ -60,8 +60,11 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 **-Website**<br/>
 &nbsp;&nbsp;&nbsp;  **-Basic structure**<br/>
 &nbsp;&nbsp;&nbsp;  **-About Page**<br/>
-	![Website Pictures](.//Structural-Engineering.jpg)<br/>
-
+	![Website Pictures](Structural-Engineering.jpg)
+	<br/>
+	<br/>
+	<br/>
+	![Website Pictures](Third.png)
 
 
 ####**Team/Client Information:**
