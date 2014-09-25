@@ -1,0 +1,11 @@
+Roberto Llano
+Information Radiator Write-Up
+CIS440
+Summit Structural
+
+Proposal:
+Useful websites isn’t about being filled with information; most times and depending on the service, customers visit a website and cannot find the answers they are looking for. Capturing the questions and needs of a customer to later follow up with an answer can dramatically increase the chances of a sale.
+
+We would like to propose adding a web form under the “Contact” section. Although it would be impossible to give an immediate answer to every customer, we can collect his or her name, phone number, email address, and a basic description of what is needed. Depending on whether the services requested match what Summit Structural offers, you could then follow up with an email or a phone call with an offer or referral. Leaving a customer unattended can seriously affect the company’s image, so being able to at least point the customer in the right direction will leave a great impression that can later translate into more business.
+
+There are many ways of creating web forms, from simple to super robust using code. WordPress allows us to have a simple form that can store the basic information from customers, which fits perfectly with the current needs of our site. As the business grows, forms will need to be more robust to capture information and start building a customer database to better help existing customers. 
