@@ -9,10 +9,10 @@ Summit Structural is a company that offers Structural Forensic Investigations on
 Project - Creating a Website that will be used as a Contact, Marketing, Advertising tool for future clients.
 
 ####**TO-DO:**
-*Meetings
-  *Meetings with Client
-    *Week of 09.07.14
-    *Week of 09.28.14
+Meetings
+  - Meetings with Client
+     - Week of 09.07.14
+	 - Week of 09.28.14
     *Week of 10.12.14
     *Week of 10.26.14
     *Week of 11.09.14
