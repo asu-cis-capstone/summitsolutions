@@ -10,7 +10,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 
 ####**TO-DO:**
 **-Meetings**<br/>
-&nbsp;&nbsp;&nbsp; **-Meetings with Client**<br/>
+&nbsp;&nbsp;&nbsp; **Meetings with Client** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.07.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.28.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 10.12.14<br/>
@@ -18,7 +18,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.09.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.23.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Last Meeting ????<br/>
-&nbsp;&nbsp;&nbsp; **-Meettings with Team**<br/>
+&nbsp;&nbsp;&nbsp; **Meettings with Team** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.14.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.21.14<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 10.06.14<br/>
@@ -60,11 +60,11 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 **-Website**<br/>
 &nbsp;&nbsp;&nbsp;  **-Basic structure**<br/>
 &nbsp;&nbsp;&nbsp;  **-About Page**<br/>
-	![Website Pictures](Structural-Engineering.jpg)
+	![Website Pictures](/Pictures/Structural-Engineering.jpg)
 	<br/>
 	<br/>
 	<br/>
-	![Website Pictures](Third.png)
+	![Website Pictures](/Pictures/Third.png)
 
 
 ####**Team/Client Information:**
