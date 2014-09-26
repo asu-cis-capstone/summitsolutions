@@ -9,23 +9,23 @@ Summit Structural is a company that offers Structural Forensic Investigations on
 Project - Creating a Website that will be used as a Contact, Marketing, Advertising tool for future clients.
 
 ####**TO-DO:**
-**-Meetings**<br/>
-&nbsp;&nbsp;&nbsp; **Meetings with Client** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.07.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.28.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 10.12.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 10.26.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.09.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.23.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Last Meeting ????<br/>
-&nbsp;&nbsp;&nbsp; **Meettings with Team** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.14.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 09.21.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 10.06.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 10.20.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.02.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Week of 11.16.14<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	*Last Meeting ????<br/>
+*Meetings
+  *Meetings with Client
+    *Week of 09.07.14
+    *Week of 09.28.14
+    *Week of 10.12.14
+    *Week of 10.26.14
+    *Week of 11.09.14
+    *Week of 11.23.14
+    *Last Meeting ????
+  *Meetings with Team
+    *Week of 09.14.14
+    *Week of 09.21.14
+    *Week of 10.06.14
+    *Week of 10.20.14
+    *Week of 11.02.14
+    *Week of 11.16.14
+    *Last Meeting ???
 
 **-1st Meet with Client for Information**<br/>
 &nbsp;&nbsp;&nbsp;	**-Get basic structure of Website**<br/>
