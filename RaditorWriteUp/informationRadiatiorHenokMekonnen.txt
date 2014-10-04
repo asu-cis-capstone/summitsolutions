@@ -1,1 +1,19 @@
-Hello, to be complited
+Henok Mekonnen
+CIS 440
+Information Radiator 
+10/4/2014
+
+	I propose to help collect data for market saturation for better marketing purposes.  If you know what markets and areas
+were bringing in business you would know where to spend more money for advertising and where not to.  Having a website is 
+a great tool of the trade, but really getting out there and advertising would help create more revenue and cut losses.  With 
+this data, you can have multiple test markets to keep expanding your business, while saving money.  We will use this database
+to collect all of your clients information to see how what areas you have the most business in.  With that information you 
+can do more advertising in market areas with magazine inserts, local news papers, mailing adds, and flyers.  These are just 
+some of the advertising techniques you would be able to put into action using this information.
+
+	To implement this we would use SQL Server as the main database and use Microsoft Access for forms, reports, and queries.  
+We would need to do a re-design of the web-site so it can accept information and passed it to a PHP script.  We need a PHP 
+script so we pass all of the data to SQL Server that will be holding all of the information used for analysis.  It would take 
+anywhere from a month to six months to get the database completely up and functioning to full capacity.  I would suggest at
+least at a minimum of two Data Miners and an expert in marketing techniques.  Other resources needed will be physical materials
+for advertising (Digital Cameras, printing equipment, etc.), software, and hardware.
