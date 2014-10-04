@@ -7,3 +7,7 @@ Installed Web form plug in for contact page
 
 created new email address for them 
 summitstructuralaz@gmail.com
+
+
+created contact page web form - ngoes to summitstructuralaz@gmail.com now 
+
