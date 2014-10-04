@@ -92,10 +92,12 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 
 **Client:** Summit Structural AZ
 
-**Team Members:** - Erin Sherman  
-				  - Steve Padilla  
-				  - Roberto Llano  
-				  - Henok Mekonnen  
+**Team Members:** 
+  - Erin Sherman  
+  - Steve Padilla  
+  - Roberto Llano  
+  - Henok Mekonnen  
+  
 				  
 **Project:** Marketing Website www.summitstructuralaz.com  
 
