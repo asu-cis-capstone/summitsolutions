@@ -62,6 +62,13 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 **Website**  
   - Basic structure  
   - About Page  
+  - Theme
+  - Contact Web Form
+  - Decided no Social Networking
+  - Client meeting 10.08.14
+  - Group Meetings 09.14.14
+  - Group Meetings 09.26.14
+  - Group Meetings 10.06.14
   
 **v0.2**  
   - Created the basic structure of the web site's home page and about page.  
@@ -85,6 +92,10 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 <br/>
 ![Website Pictures](/Pictures/AboutPg V0.3.PNG)  
+
+###**Gannt Chart/Burndown**  
+
+![Gannt Chart](/Pictures/Capture.PNG)
 
 
 
