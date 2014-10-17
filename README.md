@@ -99,8 +99,11 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
   - Still need additional client information to add more information to website  
   
 ![Website Pictures] (/Pictures/Google5.PNG)   
+<br/>
 ![Website Pictures] (/Pictures/Google3.PNG)  
+<br/>
 ![Website Pictures] (/Pictures/Google2.PNG)  
+<br/>
 ![Website Pictures] (/Pictures/Test1.PNG)![Website Pictures] (/Pictures/Test2.PNG)  
 
 ###**Gannt Chart/Burndown**  
