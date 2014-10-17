@@ -52,8 +52,8 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 	  - Why Choose us ???  
 	  - Certifications  
 	- **Social Networking Options**  
-	  - Facebook  
-	  - LinkedIn  
+	  - ~~Facebook~~  
+	  - ~~LinkedIn~~
 	  - Angies List  
 	  
 
@@ -92,6 +92,16 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 <br/>
 ![Website Pictures](/Pictures/AboutPg V0.3.PNG)  
+
+**v0.4**
+  - Google Analytics added to website
+  - Using Mobiletest.me to start testing website on mobile devices
+  - Still need additional client information to add more information to website  
+  
+![Website Pictures] (/Pictures/Google5.PNG)   
+![Website Pictures] (/Pictures/Google3.PNG)  
+![Website Pictures] (/Pictures/Google2.PNG)  
+![Website Pictures] (/Pictures/Test1.PNG)![Website Pictures] (/Pictures/Test2.PNG)  
 
 ###**Gannt Chart/Burndown**  
 
