@@ -1,0 +1,24 @@
+to delete a tag:
+git tag -d (tag name)
+git push origin :refs/tags/v0.1
+
+
+to add a tag:
+git tag (tag name) (file num)
+git push origin --tags
+
+
+
+to update github on my laptop:
+git pull
+
+
+to update and push all:
+git pull 'first to get all updated info from github.'
+
+git status  'do to get status on stuff you added if it shows it in red you need to add still then do status after added
+and it will show things you added in green.'
+
+git add -A
+git commit -m 'a discription of what you changed'
+git push origin master

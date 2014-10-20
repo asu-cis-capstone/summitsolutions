@@ -1,0 +1,4 @@
+-Updated, duplicated and named official theme
+-Changed background color
+-Created and linked SEO (Google Analytics)
+-Completed GoDaddy setup... deleted all images and information in database ;(
