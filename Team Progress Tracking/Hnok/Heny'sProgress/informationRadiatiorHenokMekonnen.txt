@@ -1,7 +1,16 @@
 to do:
--create google Analytics
--create a facebook page
+septemeber
+-google anaytic
+-play aroud with website
+-powerpoint
+-update git hup
+-personal information
+
+to do:
+10/19/2014
 -add to the website
--update the personal assignment
--work on logo
+-update progress
+-research for wasys to acquire database for the business and connect to website.
+-logo
 -play around with the website and look for ways to make it more friendly. Add usiablity 
+-update git hub
