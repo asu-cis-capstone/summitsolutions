@@ -55,6 +55,10 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 	  - ~~Facebook~~  
 	  - ~~LinkedIn~~
 	  - Angies List  
+	- **Google Analytics**  
+	- **Testing**  
+	
+	
 	  
 
 
@@ -69,6 +73,9 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
   - Group Meetings 09.14.14
   - Group Meetings 09.26.14
   - Group Meetings 10.06.14
+  - Group Meetings 10.20.14
+  - Google Analytics added
+  - Phone App Testing/Web Testing
   
 **v0.2**  
   - Created the basic structure of the web site's home page and about page.  
@@ -108,7 +115,10 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 
 ###**Gannt Chart/Burndown**  
 
-![Gannt Chart](/Pictures/Capture.PNG)
+![Gannt Chart](/Pictures/Capture.PNG)  
+<br/>
+![Burn Down](/Pictures/BurnDown.PNG)  
+<br/>
 
 
 
