@@ -113,6 +113,20 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 ![Website Pictures] (/Pictures/Test1.PNG)![Website Pictures] (/Pictures/Test2.PNG)  
 
+
+**v0.5**  
+  - Website update with new Content
+  - Google Analytics Update for website  
+  - Using Mobiletest.me to test website on mobile devices  
+  
+![Website Pictures] (/Pictures/V5.1.PNG)   
+<br/>
+![Website Pictures] (/Pictures/v5.2.PNG)  
+<br/>
+![Website Pictures] (/Pictures/v5.3.PNG)  
+<br/>
+![Website Pictures] (/Pictures/v5.4.PNG)  
+
 ###**Gannt Chart/Burndown**  
 
 ![Gannt Chart](/Pictures/Capture.PNG)  
