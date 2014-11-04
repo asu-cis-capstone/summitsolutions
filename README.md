@@ -14,7 +14,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
      - Week of 09.07.14
 	 - ~~Week of 09.28.14~~
 	 - ~~Week of 10.12.14~~&nbsp;Update(Week of 10.05.14)
-     - Week of 10.26.14
+     - ~~Week of 10.26.14~~&nbsp;Update(Not Able to Meet)
      - Week of 11.09.14
      - Week of 11.23.14
      - Last Meeting ????
@@ -24,7 +24,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
      - Week of 09.21.14
      - Week of 10.06.14
      - Week of 10.20.14
-     - Week of 11.02.14
+     - ~~Week of 11.02.14~~&nbsp;Update(Week of 11.09.14)
      - Week of 11.16.14
      - Last Meeting ???
 
@@ -57,10 +57,6 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 	  - Angies List  
 	- **Google Analytics**  
 	- **Testing**  
-	
-	
-	  
-
 
 ####**TO-DO COMPLETES:**
 **Website**  
@@ -68,14 +64,23 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
   - About Page  
   - Theme
   - Contact Web Form
-  - Decided no Social Networking
-  - Client meeting 10.08.14
+  - Decided no Social Networking  
+  - Client Meeting 09.07.14
+  - Client Meeting 10.08.14  
+  - Client Meeting 10.26.14(Not able to Meet)
   - Group Meetings 09.14.14
   - Group Meetings 09.26.14
   - Group Meetings 10.06.14
   - Group Meetings 10.20.14
   - Google Analytics added
   - Phone App Testing/Web Testing
+  - Content Updates
+  - Marketing Strategies  
+  - Page Updates  
+	- YOUR HOUSE AND THE DESERT  
+	- RESIDENTIAL SERVICES  
+	- HOME  
+  - Update Meeting times with Client and Group
   
 **v0.2**  
   - Created the basic structure of the web site's home page and about page.  
@@ -129,9 +134,11 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 
 ###**Gannt Chart/Burndown**  
 
-![Gannt Chart](/Pictures/Capture.PNG)  
+![Gannt Chart](/Pictures/Gantv0.5.1.PNG)  
 <br/>
-![Burn Down](/Pictures/BurnDown.PNG)  
+![Gannt Chart](/Pictures/2Gantv0.5.1.PNG)  
+<br/>
+![Burn Down](/Pictures/BurnDown5.PNG)  
 <br/>
 
 
