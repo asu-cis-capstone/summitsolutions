@@ -82,7 +82,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 	- HOME  
   - Update Meeting times with Client and Group
   
-**v0.2**  
+####**v0.2**  
   - Created the basic structure of the web site's home page and about page.  
   - No real content still waiting for images and company information from client  
   
@@ -93,7 +93,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 	<br/>
 	![Website Pictures](/Pictures/Third.png)  
 	
-**v0.3**  
+####**v0.3**  
   - Website with new theme and images we will be using from the client.  
   - Mockup created for the About page, still waiting for more information on company from client.
   - Will be meeting with client next week 10.08.14 for additional information about company and  
@@ -105,7 +105,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 ![Website Pictures](/Pictures/AboutPg V0.3.PNG)  
 
-**v0.4**
+####**v0.4**
   - Google Analytics added to website
   - Using Mobiletest.me to start testing website on mobile devices
   - Still need additional client information to add more information to website  
@@ -119,7 +119,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 ![Website Pictures] (/Pictures/Test1.PNG)![Website Pictures] (/Pictures/Test2.PNG)  
 
 
-**v0.5**  
+####**v0.5**  
   - Website update with new Content
   - Google Analytics Update for website  
   - Using Mobiletest.me to test website on mobile devices  
@@ -131,6 +131,43 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 ![Website Pictures] (/Pictures/v5.3.PNG)  
 <br/>
 ![Website Pictures] (/Pictures/v5.4.PNG)  
+
+####**v0.6**  
+	- Website updates(Content, Layout, Images, Plug-Ins
+	  - Home Page  
+	  - Hands-on  
+	  - Inspections  
+	  - Services  
+	  - Homes  
+	  - Contact Us  
+	    - Contact information linked to  SummitStructuralAZ@gmail.com  
+	- Optimized SEO  
+	  - Google Analytics Update for website  
+	  - Added keywords  
+	  - Added meta descriptions for snippet
+	- CSS Testing Methods  
+![Website Pictures] (/Pictures/6home.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6handson.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6inspections.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6services.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6homes.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6contactus.PNG)   
+<br/>
+<br/>
+![Website Pictures] (/Pictures/6analytics.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6analytic2.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6add.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6test.PNG)   
+<br/>
+
 
 ###**Gannt Chart/Burndown**  
 
