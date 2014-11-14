@@ -133,19 +133,20 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 ![Website Pictures] (/Pictures/v5.4.PNG)  
 
 ####**v0.6**  
-	- Website updates(Content, Layout, Images, Plug-Ins
-	  - Home Page  
-	  - Hands-on  
-	  - Inspections  
-	  - Services  
-	  - Homes  
-	  - Contact Us  
-	    - Contact information linked to  SummitStructuralAZ@gmail.com  
-	- Optimized SEO  
-	  - Google Analytics Update for website  
-	  - Added keywords  
-	  - Added meta descriptions for snippet
-	- CSS Testing Methods  
+- Website updates(Content, Layout, Images, Plug-Ins)  
+  - Home Page  
+  - Hands-on  
+  - Inspections    
+  - Services  
+  - Homes  
+  - Contact Us  
+	- Contact information linked to  SummitStructuralAZ@gmail.com   
+- Optimized SEO  
+  - Google Analytics Update for website  
+  - Added keywords  
+  - Added meta descriptions for snippet  
+- CSS Testing Methods  
+
 ![Website Pictures] (/Pictures/6home.PNG)   
 <br/>
 ![Website Pictures] (/Pictures/6handson.PNG)   
@@ -161,11 +162,11 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 ![Website Pictures] (/Pictures/6analytics.PNG)   
 <br/>
-![Website Pictures] (/Pictures/6analytic2.PNG)   
+![Website Pictures] (/Pictures/6analytics2.PNG)   
 <br/>
 ![Website Pictures] (/Pictures/6add.PNG)   
 <br/>
-![Website Pictures] (/Pictures/6test.PNG)   
+![Website Pictures] (/Pictures/6testing.PNG)   
 <br/>
 
 
