@@ -63,24 +63,44 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
   - Basic structure  
   - About Page  
   - Theme
-  - Contact Web Form
+  - Contact Web Form  
+	- Is now Connect to an email account and is able to receive content
+	 - First last  
+	 - Address  
+	 - Email  
+	 - Phone number  
+	 - Questions or Concerns  
   - Decided no Social Networking  
-  - Client Meeting 09.07.14
-  - Client Meeting 10.08.14  
-  - Client Meeting 10.26.14(Not able to Meet)
-  - Group Meetings 09.14.14
-  - Group Meetings 09.26.14
-  - Group Meetings 10.06.14
-  - Group Meetings 10.20.14
   - Google Analytics added
   - Phone App Testing/Web Testing
-  - Content Updates
+  - Content Updates  
+	- Home Page  
+    - Hands-on  
+    - Inspections  
+    - Services  
+    - Homes  
+    - Contact Us  
+	  - Contact information linked to  SummitStructuralAZ@gmail.com  
   - Marketing Strategies  
+    - Google Analytics Update for website  
+	- Added keywords  
+	- Added meta descriptions for snippet  
   - Page Updates  
 	- YOUR HOUSE AND THE DESERT  
 	- RESIDENTIAL SERVICES  
+	  - Residential  
+	  - Commercial  
 	- HOME  
-  - Update Meeting times with Client and Group
+  - Update Meeting times with Client and Group  
+    - Client Meeting 09.07.14
+    - Client Meeting 10.08.14  
+    - Client Meeting 10.26.14(Not able to Meet)  
+    - Client Meeting 11.09.14
+    - Group Meetings 09.14.14
+    - Group Meetings 09.26.14
+    - Group Meetings 10.06.14
+    - Group Meetings 10.20.14
+    - Group Meetings 11.09.14
   
 ####**v0.2**  
   - Created the basic structure of the web site's home page and about page.  
@@ -170,13 +190,9 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 
 
-###**Gannt Chart/Burndown**  
+###**Burndown**  
 
-![Gannt Chart](/Pictures/Gantv0.5.1.PNG)  
-<br/>
-![Gannt Chart](/Pictures/2Gantv0.5.1.PNG)  
-<br/>
-![Burn Down](/Pictures/BurnDown5.PNG)  
+![Burn Down](/Pictures/BurnDown6.PNG)  
 <br/>
 
 
@@ -189,7 +205,6 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
   - Erin Sherman  
   - Steve Padilla  
   - Roberto Llano  
-  - Henok Mekonnen  
   
 				  
 **Project:** Marketing Website www.summitstructuralaz.com  
