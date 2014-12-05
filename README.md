@@ -92,13 +92,13 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
     - Client Meeting 10.08.14  
     - Client Meeting 10.26.14(Not able to Meet)  
     - Client Meeting 11.09.14
-	- Client Meeting 12.02.14 Final
+	- Client Meeting 12.02.14 Final  
     - Group Meetings 09.14.14
     - Group Meetings 09.26.14
     - Group Meetings 10.06.14
     - Group Meetings 10.20.14
     - Group Meetings 11.09.14
-	- Group Meetings 12.02.14 Final
+	- Group Meetings 12.02.14 Final  
 ####**v0.2**  
   - Created the basic structure of the web site's home page and about page.  
   - No real content still waiting for images and company information from client  
@@ -230,11 +230,11 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 ![Burn Down](/Pictures/finalgannt.PNG)  
 <br/>
-![Burn Down](/Pictures/finalgann2.PNG)  
+![Burn Down](/Pictures/finalgann2re.PNG)  
 <br/>
 ![Burn Down](/Pictures/finalgann3.PNG)  
 <br/>
-![Burn Down](/Pictures/finalgann5.PNG)  
+![Burn Down](/Pictures/finalgannt5.PNG)  
 <br/>
 
 
