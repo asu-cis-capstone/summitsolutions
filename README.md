@@ -46,11 +46,6 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 	  - Questions or Concerns  
 	- **Portfolio (Static)**  
 	  - Current and New Projects  
-	- **Credentials Page**  
-	  - Testimonials  
-	  - Angies List  
-	  - Why Choose us ???  
-	  - Certifications  
 	- **Social Networking Options**  
 	  - ~~Facebook~~  
 	  - ~~LinkedIn~~
@@ -58,7 +53,8 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 	- **Google Analytics**  
 	- **Testing**  
 
-####**TO-DO COMPLETES:**
+####**TO-DO COMPLETES:**  
+#####**All To-Do's Completed**
 **Website**  
   - Basic structure  
   - About Page  
@@ -96,12 +92,13 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
     - Client Meeting 10.08.14  
     - Client Meeting 10.26.14(Not able to Meet)  
     - Client Meeting 11.09.14
+	- Client Meeting 12.02.14 Final
     - Group Meetings 09.14.14
     - Group Meetings 09.26.14
     - Group Meetings 10.06.14
     - Group Meetings 10.20.14
     - Group Meetings 11.09.14
-  
+	- Group Meetings 12.02.14 Final
 ####**v0.2**  
   - Created the basic structure of the web site's home page and about page.  
   - No real content still waiting for images and company information from client  
@@ -169,32 +166,76 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 
 ![Website Pictures] (/Pictures/6home.PNG)   
 <br/>
+![Website Pictures] (/Pictures/finalaboutus.PNG)   
+<br/>
 ![Website Pictures] (/Pictures/6handson.PNG)   
 <br/>
-![Website Pictures] (/Pictures/6inspections.PNG)   
+![Website Pictures] (/Pictures/finalinspect.PNG)   
 <br/>
-![Website Pictures] (/Pictures/6services.PNG)   
+![Website Pictures] (/Pictures/finalresidentialser.PNG)   
 <br/>
-![Website Pictures] (/Pictures/6homes.PNG)   
+![Website Pictures] (/Pictures/finaldeshomes.PNG)   
 <br/>
 ![Website Pictures] (/Pictures/6contactus.PNG)   
 <br/>
 <br/>
-![Website Pictures] (/Pictures/6analytics.PNG)   
-<br/>
-![Website Pictures] (/Pictures/6analytics2.PNG)   
+![Website Pictures] (/Pictures/finalgoo.PNG)   
 <br/>
 ![Website Pictures] (/Pictures/6add.PNG)   
 <br/>
 ![Website Pictures] (/Pictures/6testing.PNG)   
 <br/>
 
+####**v1.0 Final Release**  
+- Website updates(Content, Layout, Images, Plug-Ins)  
+  - Home Page  
+  - Hands-on  
+  - Inspections    
+  - Services  
+  - Homes  
+  - Contact Us  
+	- Contact information linked to  SummitStructuralAZ@gmail.com   
+- Optimized SEO  
+  - Used Mail Chimp to send out flyers  
+  - Google Analytics Update for website  
+  - Added keywords  
+  - Added meta descriptions for snippet  
+- CSS Testing Methods  
 
-###**Burndown**  
-
-![Burn Down](/Pictures/BurnDown6.PNG)  
+![Website Pictures] (/Pictures/6home.PNG)   
+<br/>
+![Website Pictures] (/Pictures/finalaboutus.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6handson.PNG)   
+<br/>
+![Website Pictures] (/Pictures/finalinspect.PNG)   
+<br/>
+![Website Pictures] (/Pictures/finalresidentialser.PNG)   
+<br/>
+![Website Pictures] (/Pictures/finaldeshomes.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6contactus.PNG)   
+<br/>
+<br/>
+![Website Pictures] (/Pictures/finalgoo.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6add.PNG)   
+<br/>
+![Website Pictures] (/Pictures/6testing.PNG)   
 <br/>
 
+###**Gannt Chart/Burndown**  
+
+![Burn Down](/Pictures/final.PNG)  
+<br/>
+![Burn Down](/Pictures/finalgannt.PNG)  
+<br/>
+![Burn Down](/Pictures/finalgann2.PNG)  
+<br/>
+![Burn Down](/Pictures/finalgann3.PNG)  
+<br/>
+![Burn Down](/Pictures/finalgann5.PNG)  
+<br/>
 
 
 ####**Team/Client Information:**
