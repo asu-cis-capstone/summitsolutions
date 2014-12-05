@@ -99,6 +99,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
     - Group Meetings 10.20.14
     - Group Meetings 11.09.14
 	- Group Meetings 12.02.14 Final  
+
 ####**v0.2**  
   - Created the basic structure of the web site's home page and about page.  
   - No real content still waiting for images and company information from client  
@@ -210,7 +211,7 @@ Project - Creating a Website that will be used as a Contact, Marketing, Advertis
 <br/>
 ![Website Pictures] (/Pictures/finalinspect.PNG)   
 <br/>
-![Website Pictures] (/Pictures/finalresidentialser.PNG)   
+![Website Pictures] (/Pictures/finalresidentialserv.PNG)   
 <br/>
 ![Website Pictures] (/Pictures/finaldeshomes.PNG)   
 <br/>
